@@ -1,0 +1,19 @@
+{
+  "name": "underscore-enlarger",
+  "version": "0.0.0",
+  "description": "More utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yzziizzy/underscore-enlarger.git"
+  },
+  "author": "Izzy",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/yzziizzy/underscore-enlarger/issues"
+  },
+  "homepage": "https://github.com/yzziizzy/underscore-enlarger"
+}
